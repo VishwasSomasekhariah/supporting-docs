@@ -35,7 +35,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.16.3/vector-0.16.3.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.16.3/vector-0.16.3.tgz
     version: 0.16.3
   - annotations:
       artifacthub.io/images: |
@@ -71,7 +71,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.16.2/vector-0.16.2.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.16.2/vector-0.16.2.tgz
     version: 0.16.2
   - annotations:
       artifacthub.io/images: |
@@ -107,7 +107,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.16.0/vector-0.16.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.16.0/vector-0.16.0.tgz
     version: 0.16.0
   - annotations:
       artifacthub.io/images: |
@@ -143,7 +143,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.15.1/vector-0.15.1.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.15.1/vector-0.15.1.tgz
     version: 0.15.1
   - annotations:
       artifacthub.io/images: |
@@ -179,7 +179,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.15.0/vector-0.15.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.15.0/vector-0.15.0.tgz
     version: 0.15.0
   - annotations:
       artifacthub.io/images: |
@@ -215,7 +215,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.14.0/vector-0.14.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.14.0/vector-0.14.0.tgz
     version: 0.14.0
   - annotations:
       artifacthub.io/images: |
@@ -251,7 +251,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.13.2/vector-0.13.2.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.13.2/vector-0.13.2.tgz
     version: 0.13.2
   - annotations:
       artifacthub.io/images: |
@@ -287,7 +287,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.13.1/vector-0.13.1.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.13.1/vector-0.13.1.tgz
     version: 0.13.1
   - annotations:
       artifacthub.io/images: |
@@ -323,7 +323,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.13.0/vector-0.13.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.13.0/vector-0.13.0.tgz
     version: 0.13.0
   - annotations:
       artifacthub.io/images: |
@@ -359,7 +359,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.12.0/vector-0.12.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.12.0/vector-0.12.0.tgz
     version: 0.12.0
   - annotations:
       artifacthub.io/images: |
@@ -395,7 +395,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.11.0/vector-0.11.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.11.0/vector-0.11.0.tgz
     version: 0.11.0
   - annotations:
       artifacthub.io/images: |
@@ -431,7 +431,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.10.3/vector-0.10.3.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.10.3/vector-0.10.3.tgz
     version: 0.10.3
   - annotations:
       artifacthub.io/images: |
@@ -467,7 +467,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.10.2/vector-0.10.2.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.10.2/vector-0.10.2.tgz
     version: 0.10.2
   - annotations:
       artifacthub.io/images: |
@@ -503,7 +503,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.10.1/vector-0.10.1.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.10.1/vector-0.10.1.tgz
     version: 0.10.1
   - annotations:
       artifacthub.io/images: |
@@ -539,7 +539,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.10.0/vector-0.10.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.10.0/vector-0.10.0.tgz
     version: 0.10.0
   - annotations:
       artifacthub.io/images: |
@@ -575,7 +575,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.9.0/vector-0.9.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.9.0/vector-0.9.0.tgz
     version: 0.9.0
   - annotations:
       artifacthub.io/images: |
@@ -611,7 +611,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.7.0/vector-0.7.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.7.0/vector-0.7.0.tgz
     version: 0.7.0
   - annotations:
       artifacthub.io/images: |
@@ -647,7 +647,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.7.0-rc.0/vector-0.7.0-rc.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.7.0-rc.0/vector-0.7.0-rc.0.tgz
     version: 0.7.0-rc.0
   - annotations:
       artifacthub.io/images: |
@@ -683,7 +683,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.6.0/vector-0.6.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.6.0/vector-0.6.0.tgz
     version: 0.6.0
   - annotations:
       artifacthub.io/images: |
@@ -719,7 +719,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.5.2/vector-0.5.2.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.5.2/vector-0.5.2.tgz
     version: 0.5.2
   - annotations:
       artifacthub.io/images: |
@@ -755,7 +755,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.5.0/vector-0.5.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.5.0/vector-0.5.0.tgz
     version: 0.5.0
   - annotations:
       artifacthub.io/images: |
@@ -791,7 +791,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.4.0/vector-0.4.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.4.0/vector-0.4.0.tgz
     version: 0.4.0
   - annotations:
       artifacthub.io/images: |
@@ -827,7 +827,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.3.0/vector-0.3.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.3.0/vector-0.3.0.tgz
     version: 0.3.0
   - annotations:
       artifacthub.io/images: |
@@ -863,7 +863,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.2.2/vector-0.2.2.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.2.2/vector-0.2.2.tgz
     version: 0.2.2
   - annotations:
       artifacthub.io/images: |
@@ -899,7 +899,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.2.1/vector-0.2.1.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.2.1/vector-0.2.1.tgz
     version: 0.2.1
   - annotations:
       artifacthub.io/images: |
@@ -935,7 +935,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.2.0/vector-0.2.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.2.0/vector-0.2.0.tgz
     version: 0.2.0
   - annotations:
       artifacthub.io/images: |
@@ -971,7 +971,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.1.1/vector-0.1.1.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.1.1/vector-0.1.1.tgz
     version: 0.1.1
   - annotations:
       artifacthub.io/images: |
@@ -1007,7 +1007,7 @@ entries:
     - https://github.com/VishwasSomasekhariah/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.1.0/vector-0.1.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.1.0/vector-0.1.0.tgz
     version: 0.1.0
   - annotations:
       artifacthub.io/images: |
@@ -1043,7 +1043,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.1.0-beta.2/vector-0.1.0-beta.2.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.1.0-beta.2/vector-0.1.0-beta.2.tgz
     version: 0.1.0-beta.2
   - annotations:
       artifacthub.io/images: |
@@ -1079,7 +1079,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.1.0-alpha.4/vector-0.1.0-alpha.4.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.1.0-alpha.4/vector-0.1.0-alpha.4.tgz
     version: 0.1.0-alpha.4
   - annotations:
       artifacthub.io/images: |
@@ -1115,7 +1115,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-0.1.0-alpha.3/vector-0.1.0-alpha.3.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-0.1.0-alpha.3/vector-0.1.0-alpha.3.tgz
     version: 0.1.0-alpha.3
   - annotations:
       artifacthub.io/images: |
@@ -1243,7 +1243,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-agent-0.21.3/vector-agent-0.21.3.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-agent-0.21.3/vector-agent-0.21.3.tgz
     version: 0.21.3
   - apiVersion: v2
     appVersion: 0.19.1
@@ -1262,7 +1262,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-agent-0.21.2/vector-agent-0.21.2.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-agent-0.21.2/vector-agent-0.21.2.tgz
     version: 0.21.2
   - apiVersion: v2
     appVersion: 0.19.0
@@ -1281,7 +1281,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-agent-0.21.0/vector-agent-0.21.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-agent-0.21.0/vector-agent-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v2
     appVersion: 0.19.0
@@ -1302,7 +1302,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-agent-0.20.0/vector-agent-0.20.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-agent-0.20.0/vector-agent-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v2
     appVersion: 0.18.1
@@ -1323,7 +1323,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-agent-0.19.1/vector-agent-0.19.1.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-agent-0.19.1/vector-agent-0.19.1.tgz
     version: 0.19.1
   - apiVersion: v2
     appVersion: 0.18.0
@@ -1344,7 +1344,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-agent-0.19.0/vector-agent-0.19.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-agent-0.19.0/vector-agent-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v2
     appVersion: 0.17.3
@@ -1365,7 +1365,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-agent-0.18.1/vector-agent-0.18.1.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-agent-0.18.1/vector-agent-0.18.1.tgz
     version: 0.18.1
   - apiVersion: v2
     appVersion: 0.16.1
@@ -1721,7 +1721,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-aggregator-0.21.3/vector-aggregator-0.21.3.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-aggregator-0.21.3/vector-aggregator-0.21.3.tgz
     version: 0.21.3
   - apiVersion: v2
     appVersion: 0.19.1
@@ -1740,7 +1740,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-aggregator-0.21.2/vector-aggregator-0.21.2.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-aggregator-0.21.2/vector-aggregator-0.21.2.tgz
     version: 0.21.2
   - apiVersion: v2
     appVersion: 0.19.0
@@ -1759,7 +1759,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-aggregator-0.21.0/vector-aggregator-0.21.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-aggregator-0.21.0/vector-aggregator-0.21.0.tgz
     version: 0.21.0
   - apiVersion: v2
     appVersion: 0.19.0
@@ -1780,7 +1780,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-aggregator-0.20.0/vector-aggregator-0.20.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-aggregator-0.20.0/vector-aggregator-0.20.0.tgz
     version: 0.20.0
   - apiVersion: v2
     appVersion: 0.18.1
@@ -1801,7 +1801,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-aggregator-0.19.1/vector-aggregator-0.19.1.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-aggregator-0.19.1/vector-aggregator-0.19.1.tgz
     version: 0.19.1
   - apiVersion: v2
     appVersion: 0.18.0
@@ -1822,7 +1822,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-aggregator-0.19.0/vector-aggregator-0.19.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-aggregator-0.19.0/vector-aggregator-0.19.0.tgz
     version: 0.19.0
   - apiVersion: v2
     appVersion: 0.17.3
@@ -1843,7 +1843,7 @@ entries:
     - https://github.com/timberio/vector/
     type: application
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-aggregator-0.18.1/vector-aggregator-0.18.1.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-aggregator-0.18.1/vector-aggregator-0.18.1.tgz
     version: 0.18.1
   - apiVersion: v2
     appVersion: 0.16.1
@@ -1984,7 +1984,7 @@ entries:
     - https://github.com/timberio/vector/
     type: library
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-shared-0.2.1/vector-shared-0.2.1.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-shared-0.2.1/vector-shared-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
     created: "2021-12-28T19:58:45.785983554Z"
@@ -1998,7 +1998,7 @@ entries:
     - https://github.com/timberio/vector/
     type: library
     urls:
-    - https://github.com/VishwasSomasekhariah/helm-charts/releases/download/vector-shared-0.2.0/vector-shared-0.2.0.tgz
+    - https://github.com/vectordotdev/helm-charts/releases/download/vector-shared-0.2.0/vector-shared-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     created: "2021-08-11T17:10:15.963213-04:00"
